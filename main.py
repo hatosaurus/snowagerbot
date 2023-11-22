@@ -31,8 +31,11 @@ PHRASES = [
     "The first rule of the Ice Caves is: You do not talk about the Ice Caves. Zzz...",
     "Hello. My name is Snowie. You killed my father. Prepare to die. Zzz...",
     "I am serious. And don't call me Shirley. It's Snowie. Zzz...",
-    "Neggs? Where we're going we don't need Neggs. Zzz..."
-
+    "Neggs? Where we're going we don't need Neggs. Zzz...",
+    "God creates neopets. God destroys neopets. God creates man. Man destroys God. Man creates neopets. "
+    "I eat man. Neopets inherit the earth. Zzz...",
+    "I know you gentlemen have been through a lot, but when you find the time,"
+    " I'd rather not spend the rest of this winter TIED TO THIS FUCKING PILE OF TREASURE! Zzz...",
 ]
 
 
