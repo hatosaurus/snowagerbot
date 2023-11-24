@@ -36,6 +36,7 @@ PHRASES = [
     "I eat man. Neopets inherit the earth. Zzz...",
     "I know you gentlemen have been through a lot, but when you find the time,"
     " I'd rather not spend the rest of this winter TIED TO THIS FUCKING PILE OF TREASURE! Zzz...",
+    "You are NOT prepared! Zzz...",
 ]
 
 
